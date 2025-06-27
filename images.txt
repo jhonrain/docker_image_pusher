@@ -1,1 +1,5 @@
 nginx
+mysql:5.7
+rabbitmq:management
+nacos/nacos-server
+elasticsearch:7.8.0
